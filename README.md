@@ -12,7 +12,7 @@ Track enemy summoner spell cooldowns in League of Legends on your phone. Tap a s
 
 ## Install on Android
 
-1. On your phone, open the [latest release](https://github.com/NightPixel24/Summoner-Spell-Tracker/releases/latest) and download the `.apk` file.
+1. On your phone, open the [latest release](https://github.com/josh-rangan/Summoner-Spell-Tracker/releases/latest) and download the `.apk` file.
 2. Open the downloaded file. Android will ask you to allow installs from your browser or file manager the first time; allow it for that app.
 3. Tap **Install**. If Google Play Protect warns that it doesn't recognise the app, choose **Install anyway**. It warns about any app that isn't from the Play Store.
 
